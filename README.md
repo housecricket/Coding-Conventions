@@ -11,25 +11,10 @@ A set of guidelines, helpful practices, programming styles, and conventions for 
 * [Google’s C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [High Integrity C++](https://en.wikipedia.org/wiki/High_Integrity_C%2B%2B)
 ## C# Programming Language
-C# Coding Conventions (C# Programming Guide)
-
-Coding conventions serve the following purposes:
-
-    They create a consistent look to the code, so that readers can focus on content, not layout.
-    They enable readers to understand the code more quickly by making assumptions based on previous experience.
-    They facilitate copying, changing, and maintaining the code.
-    They demonstrate C# best practices.
-
-Read more at: https://msdn.microsoft.com/en-us/library/ff926074.aspx
-Design Guidelines for Developing Class Libraries
-
-Read more at: http://msdn.microsoft.com/en-us/library/ms229042(VS.80).aspx
-Brad Abrams
-
-Read more at: http://blogs.msdn.com/brada/articles/361363.aspx
-Philips Healthcare
-
-Read more at: http://www.tiobe.com/standards/gemrcsharpcs.pdf
+* [C# Coding Conventions (C# Programming Guide)](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
+* [Design Guidelines for Developing Class Libraries](http://msdn.microsoft.com/en-us/library/ms229042(VS.80).aspx)
+* [Brad Abrams](http://blogs.msdn.com/brada/articles/361363.aspx)
+* [Philips Healthcare](http://www.tiobe.com/standards/gemrcsharpcs.pdf)
 ## Java Programming Language
 * [Ambysoft’s Coding Standards for Java](http://www.ambysoft.com/essays/javaCodingStandards.html)
 * [GeoSoft’s Java Programming Style Guidelines](http://geosoft.no/development/javastyle.html)
