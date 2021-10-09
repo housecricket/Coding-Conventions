@@ -1,9 +1,9 @@
 # Coding Conventions
 A set of guidelines, helpful practices, programming styles, and conventions for developers
 ## C Programming Language
-*SEI CERT C Coding Standard*(https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard)
-*Embedded C Coding Standard*(http://barrgroup.com/coding-standard)
-*Firmware Development Standard*(http://www.ganssle.com/fsm.pdf)
+* [SEI CERT C Coding Standard](https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard)
+* [Embedded C Coding Standard](http://barrgroup.com/coding-standard)
+* [Firmware Development Standard](http://www.ganssle.com/fsm.pdf)
 ## C++ Programming Language
 Quantum Leaps C/C++ Coding Standard
 
